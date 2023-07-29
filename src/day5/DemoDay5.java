@@ -13,4 +13,8 @@ public class DemoDay5 {
 		System.out.println("something");
 		
 }
+	public void getInfo(){
+
+		System.out.println("something");
+}
 }
