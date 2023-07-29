@@ -7,4 +7,10 @@ public class DemoDay5 {
 		
 		System.out.println("Today is Windy");
 	}
+
+	public void getInfo(){
+
+		System.out.println("something");
+		
+}
 }
