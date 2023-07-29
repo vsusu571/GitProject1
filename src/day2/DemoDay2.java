@@ -4,6 +4,8 @@ public class DemoDay2 {
 	
 	public static void main(String[] args) {
 		
+		System.out.println("Sue E");
+
 		System.out.println("Test");
 		
 		
@@ -28,4 +30,4 @@ public class DemoDay2 {
 		System.out.println(a+b+c);
 }
 
-
+}
